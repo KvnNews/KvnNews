@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 📫 Estudando Desenvolvimento Full Stack
-- 💬 Contate-me no email: droysr4@gmail.com
+- 💬 Contate-me no e-mail: droysr4@gmail.com
 - 😄 Ele/Dele
 
 <div align="center">
