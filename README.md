@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 📫 Estudando Desenvolvimento Full Stack
+- 📫 Estudando Desenvolvimento Full Stack, Local instituição da Trybe
 - 💬 Contate-me no e-mail: droysr4@gmail.com
 - --------------------- 😄 ---------------------
 
