@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com front-end
 - 📫 Estudando Desenvolvimento Full Stack
 - 💬 Contate-me no e-mail: droysr4@gmail.com
--                  😄 
+- --------------------- 😄 ---------------------
 
 <div align="center">
   <a href="https://github.com/KvnNews">
