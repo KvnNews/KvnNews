@@ -5,11 +5,11 @@
 ### Data Scientist & AI Engineer
 #### Building Scalable AI & Data Platforms on AWS & Azure
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+Ita%C3%BA+Unibanco;CEO+%40+Vendivic+Tecnologia+%26+Dados;ML+%7C+MLOps+%7C+GenAI+%7C+Data+Platforms;ITA+%E2%80%A2+Comp+Eng+%40+Eniac)](https://kvnnews.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+Ita%C3%BA+Unibanco;CEO+%40+Vendivic+Tecnologia+%26+Dados;ML+%7C+MLOps+%7C+GenAI+%7C+Data+Platforms;ITA+%E2%80%A2+Comp+Eng+%40+Eniac)](https://kvntech.space)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KvnNews&label=views&color=7F77DD&style=flat)](https://github.com/KvnNews)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvnnews)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kvnnews.netlify.app-7F77DD?style=flat)](https://kvnnews.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kvntech.space-7F77DD?style=flat&logo=google-chrome&logoColor=white)](https://kvntech.space)
 [![Twitter](https://img.shields.io/twitter/follow/droysr4?style=flat&logo=twitter&color=1DA1F2&labelColor=transparent)](https://twitter.com/droysr4)
 
 </div>
@@ -19,9 +19,10 @@
 ## About Me
 
 - 🏦 **Data Engineer Intern** @ Itaú Unibanco — ML pipelines, fraud detection, AWS (S3, Glue, Lambda)
-- 🚀 **CEO & Software Engineer** @ [Vendivic](https://kvnnews.netlify.app) — Brazil's largest SaaS for real estate lots & financing
+- 🚀 **CEO & Software Engineer** @ Vendivic — Brazil's largest SaaS for real estate lots & financing
 - 🎓 **ITA** — Probabilistic Graph Models (CEDS-861) · **Eniac** — Computer Engineering + ADS
 - 🌐 Focused on: **Data Engineering · Machine Learning · MLOps · Generative AI**
+- 💬 Ask me about **DevOps/DataOps**, **ML pipelines**, **GenAI**, **SaaS architecture**
 
 ---
 
@@ -131,6 +132,12 @@
 
 </div>
 
+<div align="center">
+
+[![KvnNews's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KvnNews&theme=tokyo-night&hide_border=true&area=true)](https://github.com/KvnNews)
+
+</div>
+
 ---
 
 ## Education
@@ -146,7 +153,7 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvnnews)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=netlify&logoColor=white)](https://kvnnews.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kvntech.space-7F77DD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kvntech.space)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/droysr4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kvn_news04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:droysr4@gmail.com)
